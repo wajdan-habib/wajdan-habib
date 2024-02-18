@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wajdan-habib
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on React projects
+- 📫 How to reach me ig @wajdan_habib
+- Also an University Student.
